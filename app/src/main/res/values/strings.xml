@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DAM_Examen_Final_Fernandez</string>
+
+    <string-array name="tipo_documento">
+        <item>DNI</item>
+        <item>Carnet de Extranjería</item>
+        <item>Pasaporte</item>
+    </string-array>
+
+</resources>
